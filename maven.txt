@@ -4,10 +4,4 @@ mvn package
 demomnstrating github webhook
 demonstrating poll scm
 abc
-xyz
-implementing github webhook
-wadmaw
-dsak 
 
-wq,mawdawd
-lasjhvd;abhsd
